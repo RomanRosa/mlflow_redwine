@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/gitrepos/mlflow_redwine/notebooks/mlruns/0/e32d6a1c05704de8beff8fea00e4aaed/artifacts
+end_time: 1700251314200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e32d6a1c05704de8beff8fea00e4aaed
+run_name: gentle-lark-925
+run_uuid: e32d6a1c05704de8beff8fea00e4aaed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700251312266
+status: 3
+tags: []
+user_id: roman.pena

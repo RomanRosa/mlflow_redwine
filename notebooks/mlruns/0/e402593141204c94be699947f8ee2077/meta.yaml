@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/gitrepos/mlflow_redwine/notebooks/mlruns/0/e402593141204c94be699947f8ee2077/artifacts
+end_time: 1700251080408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e402593141204c94be699947f8ee2077
+run_name: honorable-cow-363
+run_uuid: e402593141204c94be699947f8ee2077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700251078541
+status: 3
+tags: []
+user_id: roman.pena

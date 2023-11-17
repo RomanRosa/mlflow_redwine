@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/gitrepos/mlflow_redwine/notebooks/mlruns/0/a015ae9d4cc04633aca1d46f61af9b8f/artifacts
+end_time: 1700251070459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a015ae9d4cc04633aca1d46f61af9b8f
+run_name: sedate-asp-935
+run_uuid: a015ae9d4cc04633aca1d46f61af9b8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700251068627
+status: 3
+tags: []
+user_id: roman.pena

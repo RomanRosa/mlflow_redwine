@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/gitrepos/mlflow_redwine/notebooks/mlruns/0/8a377b78e2e04aa5a19abb9cd54860b0/artifacts
+end_time: 1700251318501
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a377b78e2e04aa5a19abb9cd54860b0
+run_name: trusting-mule-392
+run_uuid: 8a377b78e2e04aa5a19abb9cd54860b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700251316749
+status: 3
+tags: []
+user_id: roman.pena
