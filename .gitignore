@@ -120,6 +120,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.mlflow_redwine/
+.mlflow_redwine
+.mlflow
 .mlflow/
 .env
 .venv
